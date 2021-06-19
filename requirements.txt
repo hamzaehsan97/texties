@@ -16,7 +16,7 @@ marshmallow-sqlalchemy==0.26.1
 ngrok==0.0.1
 psycopg2 
 psycopg2-binary==2.8.6
-PyJWT==1.7.1
+PyJWT==2.1.0
 python-dotenv==0.17.1
 pytz==2021.1
 requests==2.25.1
